@@ -1,0 +1,11 @@
+---
+title: "Qaurto_to_GitHub"
+---
+
+## From Quarto to GitHub
+
+1.  This project is created on Quarto.
+
+2.  Then, from GitHub a repository will be added.
+
+3.  Finally, Commit and Publish.
